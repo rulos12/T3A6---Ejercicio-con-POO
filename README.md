@@ -45,6 +45,6 @@ Por último, mostrar un reporte de los trabajadores con sus datos, su salario br
 ## Etapa 3. Especificaciones 
 ![](https://github.com/rulos12/T3A6---Ejercicio-con-POO/blob/main/T3A6.png)
 ## Etapa 4. Solución
-![](https://github.com/rulos12/T3A6---Ejercicio-con-POO/blob/main/T3A6.zip)
+https://github.com/rulos12/T3A6---Ejercicio-con-POO/blob/main/T3A6.zip
 
 
